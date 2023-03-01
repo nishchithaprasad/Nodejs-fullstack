@@ -4,11 +4,11 @@
 
 ### To run NodeJS server
 ```
-cd server
+cd backend
 node index.js
 ```
 ### To run client application
 ```
-cd client
+cd frontend
 npm start
 ```
