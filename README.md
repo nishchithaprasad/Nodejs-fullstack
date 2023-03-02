@@ -5,7 +5,7 @@
 ### To run NodeJS server
 ```
 cd backend
-node index.js
+npm run start
 ```
 ### To run client application
 ```
